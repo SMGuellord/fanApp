@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FanApp", "FanApp\FanApp.csproj", "{44C5589D-DA2A-4CC4-8359-6CAA6361A479}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FanApp.Common", "FanApp.Common\FanApp.Common.csproj", "{C606274E-30DF-4D30-B752-114613C83B0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44C5589D-DA2A-4CC4-8359-6CAA6361A479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44C5589D-DA2A-4CC4-8359-6CAA6361A479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44C5589D-DA2A-4CC4-8359-6CAA6361A479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44C5589D-DA2A-4CC4-8359-6CAA6361A479}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C606274E-30DF-4D30-B752-114613C83B0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C606274E-30DF-4D30-B752-114613C83B0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C606274E-30DF-4D30-B752-114613C83B0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C606274E-30DF-4D30-B752-114613C83B0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32303AE5-8C20-47D4-8BB3-D146946E2A5A}
+	EndGlobalSection
+EndGlobal

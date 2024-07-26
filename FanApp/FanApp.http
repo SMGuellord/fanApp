@@ -1,0 +1,6 @@
+@FanApp_HostAddress = http://localhost:5173
+
+GET {{FanApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

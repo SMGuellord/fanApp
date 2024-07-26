@@ -1,0 +1,6 @@
+@FanApp.Common_HostAddress = http://localhost:5006
+
+GET {{FanApp.Common_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
